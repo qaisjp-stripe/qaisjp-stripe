@@ -1,4 +1,4 @@
-### Hi there 👋
+# [→ @qaisjp][qaisjp]
 
 <!--
 **qaisjp-stripe/qaisjp-stripe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-This is my work profile, used for things that only this account does.
-Most of my stuff, including work stuff, is made by my personal profile: [@qaisjp](https://github.com/qaisjp).
+This is my work profile, which is used for things that only this account can do.
+
+All my work and activity is done on my main profile: [@qaisjp][qaisjp].
+
+[qaisjp]: https://github.com/qaisjp
