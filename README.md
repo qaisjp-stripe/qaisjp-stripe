@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+This is my work profile, used for things that only this account does.
+Most of my stuff, including work stuff, is made by my personal profile: [@qaisjp](https://github.com/qaisjp).
